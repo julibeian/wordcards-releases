@@ -4,7 +4,7 @@
 
 ## 专注守护 Android app
 
-[下载专注守护 v1.0.2](https://github.com/julibeian/wordcards-releases/releases/tag/focusguard-v1.0.2)，支持 Android 8.0 及以上版本，全中文界面。
+[下载专注守护 v1.0.3](https://github.com/julibeian/wordcards-releases/releases/tag/focusguard-v1.0.3)，支持 Android 8.0 及以上版本，全中文界面。
 
 - 底部只有「主页面」「数据」两栏，设置收进主页右上角齿轮。
 - 主页面是卡片式专注空间：番茄专注 25 分钟、深度专注 45 分钟、禅定 30 分钟、休息 5 分钟，也可自定 1–180 分钟；进行中可暂停或结束。
